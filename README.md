@@ -1,14 +1,5 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Learn how to get your links and pages indexed for free with SpeedyIndex. Improve your SEO with our indexing links service.">
-    <title>Free Link Indexing</title>
-</head>
-<body>
-    <header>
+
         <h1>Get Your Links Indexed for Free</h1>
     </header>
     <main>
@@ -51,9 +42,4 @@
                 Indexing is a key step in improving your SEO. Use simple tools like <a href="https://speedyindex.com" target="_blank" rel="noopener noreferrer">indexing links</a> to ensure your content is found by search engines. Don’t let your hard work go unnoticed—start indexing your links today and improve your site's visibility.
             </p>
         </section>
-    </main>
-    <footer>
-        <p>&copy; 2025 SpeedyIndex. All rights reserved.</p>
-    </footer>
-</body>
-</html>
+
