@@ -10,7 +10,7 @@
             <h2>How to Index Your Links for Free</h2>
             <p>Here are some steps to help you index your links without spending money:</p>
             <ol>
-                <li>Use tools like <a href="https://speedyindex.com" target="_blank" rel="noopener noreferrer">indexing links</a> to speed up the process.</li>
+                <li>Use tools like <a href="https://en.speedyindex.com" target="_blank" rel="noopener noreferrer">indexing links</a> to speed up the process.</li>
                 <li>Create a sitemap and submit it to Google using Google Search Console.</li>
                 <li>Build high-quality backlinks to encourage search engines to crawl your site.</li>
                 <li>Update your website with fresh and relevant content regularly.</li>
